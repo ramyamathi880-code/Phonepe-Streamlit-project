@@ -460,4 +460,3 @@ else:
     st.warning("⚠️ Please select a valid scenario")
 
 st.markdown("---")
-#st.caption("📌 Data Source: PhonePe Pulse | Built using Streamlit & Plotly")
